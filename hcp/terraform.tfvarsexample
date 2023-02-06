@@ -1,0 +1,7 @@
+prefix = "vault-mc"
+hcp_client_id="xVRieBpO9KYc9y"
+hcp_client_secret="kVAq8HVMuYi-QGr-2arkpUelz4AnORjUmHWf"
+hcp_vault_tier="starter_small"
+vault_namespace = "admin"
+aws_region = "us-east-1"
+azure_region = "centralus"
