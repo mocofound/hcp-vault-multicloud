@@ -6,5 +6,5 @@ resource "hcp_vault_cluster" "azure_cluster" {
 }
 
 resource "hcp_vault_cluster_admin_token" "azure_token" {
-  cluster_id =  hcp_vault_cluster.aws_cluster.cluster_id
+  cluster_id =  hcp_vault_cluster.azure_cluster.cluster_id
 }
